@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="margin-right: 20px;"/>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"style="margin-right: 20px;"/>
 </p>
 
 <p align="center">
@@ -34,6 +34,15 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
+### 👩‍💻 &nbsp;About Me:
+
+I am a passionate Full Stack Web Developer 🚀 from Finland, currently pursuing my studies at Business College Helsinki. Enthusiastic about both frontend and backend development, I aspire to build innovative web applications.
+
+- 🔭 I am deeply engaged in honing my skills in full stack web development, constantly working on creative and impactful projects.
+- 🌐 Exploring the realms of new technologies, I strive to stay updated with the latest advancements in the tech world.
+- 💡 In my free time, I channel my energy into solving challenging problems and indulge in reading insightful tech articles.
+- 📫 Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/-AyeshaSeemab93-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-seemab/)
+- 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
