@@ -1,6 +1,6 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<div class="tenor-gif-embed" data-postid="24712882" data-share-method="host" data-aspect-ratio="1.56098" data-width="100%"><a href="https://tenor.com/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882">Web Dev Website Development GIF</a>from <a href="https://tenor.com/search/web+dev-gifs">Web Dev GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="center">
 <a href="https://www.linkedin.com/in/ayesha-seemab/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
