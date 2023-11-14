@@ -29,7 +29,7 @@ I am a passionate Full Stack Web Developer 🚀 from Finland, currently pursuing
 - 🔭 I am deeply engaged in honing my skills in full stack web development, constantly working on creative and impactful projects.
 - 🌐 Exploring the realms of new technologies, I strive to stay updated with the latest advancements in the tech world.
 - 💡 In my free time, I channel my energy into solving challenging problems and indulge in reading insightful tech articles.
-- 📫 Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/-AyeshaSeemab93-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-seemab/)
+- 📫 Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/-AyeshaSeemab-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-seemab/)
 - 
 ### 🛠 &nbsp;Languages and Tools :
 
