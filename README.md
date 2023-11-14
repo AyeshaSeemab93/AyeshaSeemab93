@@ -13,10 +13,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AyeshaSeemab93&style=flat-square&color=blue" alt=""/>
-</p>
 
+<p align="center">
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"><h1 align="center">Hey There!</h1>
-
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
 </p>
