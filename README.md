@@ -1,5 +1,5 @@
-<p align="space-between">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="margin-right: 20px;"/>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
 </p>
 
@@ -28,7 +28,7 @@
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland.
 
 - 🔭 I’m studying aT Business College Helsinki and learning frontend and backend for building web applications.
-- 🌱 Exploring New technologied.
+- 🌱 Exploring New technologies.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AyeshaSeemab93-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-seemab/)
 
