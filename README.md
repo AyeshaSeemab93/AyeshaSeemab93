@@ -23,7 +23,7 @@
 
 ### 👩‍💻 &nbsp;About Me:
 
-I am a passionate Full Stack Web Developer 🚀 from Finland, currently doing internship as fullstack developer at Seidat. Enthusiastic about both frontend and backend development, I aspire to build innovative web applications.
+I am a passionate Full Stack Web Developer 🚀 from Finland, currently doing job as fullstack developer at Seidat. Enthusiastic about both frontend and backend development, I aspire to build innovative web applications.
 
 - 🔭 I am deeply engaged in honing my skills in full stack web development, constantly working on creative and impactful projects.
 - 🌐 Exploring the realms of new technologies, I strive to stay updated with the latest advancements in the tech world.
